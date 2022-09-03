@@ -68,3 +68,7 @@ or (inside mysql)
 
 _If you get an error like: "match_info: list[dict[str, int]] type is not subscriptable", you may need to uninstall your global uvicorn (if using a virtual environment)._\
 _To do so, deactivate your python environnement and run pip3 uninstall uvicorn. Reactivate your environment and try running uvicorn main:app again_
+
+##### Notes
+
+_Profiles have been anonymized_
