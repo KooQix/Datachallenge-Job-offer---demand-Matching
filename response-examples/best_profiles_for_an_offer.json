@@ -1,0 +1,1477 @@
+[
+	{
+		"name": "DAL'CIN",
+		"surname": "Sarah-Lovely",
+		"zip_code": 64300,
+		"city": "ORTHEZ",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "F",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1880,
+		"location_job": "ORTHEZ",
+		"company_size": "ETI",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Intelligence émotionnelle",
+		"skills2": "Empathie, comprendre la réalité",
+		"skills3": "Communication, faire passer un message",
+		"contract_type1": "Intérim",
+		"contract_type2": "militaire",
+		"contract_type3": "titulaire de la fonction publique",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 25,
+		"max_distance": 65,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 167,
+		"match_percentage": 88,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 26
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 25
+			},
+			{
+				"salary_category": 93
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "GARAUD",
+		"surname": "Mickael",
+		"zip_code": 64150,
+		"city": "ABIDOS",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2340,
+		"location_job": "ABIDOS",
+		"company_size": "GRAND GROUPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Motivation",
+		"skills2": "Vision",
+		"skills3": "Visualisation, Zoom sur la mise en pratique des méthodes concrètes",
+		"contract_type1": "Intérim",
+		"contract_type2": "mannequinat",
+		"contract_type3": "intermitent (spectacle)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 40,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 403,
+		"match_percentage": 88,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 13
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 76
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "DEGUARA",
+		"surname": "MICHAEL",
+		"zip_code": 64360,
+		"city": "MONEIN",
+		"last_job": "CHAUDRONNIER SOUDEUR",
+		"gender": "H",
+		"looking_for_job": "CHAUDRONNIER SOUDEUR",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1700,
+		"location_job": "MONEIN",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": false,
+		"big_company": false,
+		"skills1": "Intelligence émotionnelle",
+		"skills2": "Empathie, comprendre la réalité",
+		"skills3": "Communication, faire passer un message",
+		"contract_type1": "Intérim",
+		"contract_type2": "extra (restauration, hôtellerie)",
+		"contract_type3": "saisonnier",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 60,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 526,
+		"match_percentage": 87,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 26
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 97
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "DELARCHE",
+		"surname": "Michaël",
+		"zip_code": 64250,
+		"city": "CAMBO-LES-BAINS",
+		"last_job": "CARISTE",
+		"gender": "H",
+		"looking_for_job": "CARISTE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1760,
+		"location_job": "CAMBO-LES-BAINS",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": true,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Confiance (en soi, en les autres et en l'avenir)",
+		"skills2": "",
+		"skills3": "Empathie, comprendre la réalité",
+		"contract_type1": "Intérim",
+		"contract_type2": "bénévolat",
+		"contract_type3": "extra (restauration, hôtellerie)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 75,
+		"max_distance": 65,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 763,
+		"match_percentage": 86,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 27
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 75
+			},
+			{
+				"salary_category": 99
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "HEGUILEIN",
+		"surname": "Thierry",
+		"zip_code": 64190,
+		"city": "CASTETNAU-CAMBLONG",
+		"last_job": "CONDITIONNEUR",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUR",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2400,
+		"location_job": "CASTETNAU-CAMBLONG",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": true,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Intelligence émotionnelle",
+		"skills2": "Empathie, comprendre la réalité",
+		"skills3": "Communication, faire passer un message",
+		"contract_type1": "Intérim",
+		"contract_type2": "contrat sénior",
+		"contract_type3": "contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 40,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 810,
+		"match_percentage": 85,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 26
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 74
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "PECQUEUX",
+		"surname": "Fabrice",
+		"zip_code": 64390,
+		"city": "BURGARONNE",
+		"last_job": "CONDITIONNEUSE",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUSE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1840,
+		"location_job": "BURGARONNE",
+		"company_size": "ETI",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Esprit d'entreprendre, proactivité",
+		"skills2": "Audace, capacité à oser",
+		"skills3": "Motivation",
+		"contract_type1": "Intérim",
+		"contract_type2": "intermitent (spectacle)",
+		"contract_type3": "contrat sénior",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 20,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 84,
+		"match_percentage": 84,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 95
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "MATIAS",
+		"surname": "Nicolas",
+		"zip_code": 64000,
+		"city": "PAU",
+		"last_job": "CONDITIONNEUSE",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUSE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1640,
+		"location_job": "PAU",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Vision",
+		"skills2": "Visualisation, Zoom sur la mise en pratique des méthodes concrètes",
+		"skills3": "Présence, capacité de concentration",
+		"contract_type1": "Intérim",
+		"contract_type2": "contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type3": "VDI (vendeur à doicile indépendant)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 75,
+		"max_distance": 65,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 596,
+		"match_percentage": 84,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 12
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 75
+			},
+			{
+				"salary_category": 94
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "ETCHEVERRY",
+		"surname": "Jérôme",
+		"zip_code": 64360,
+		"city": "MONEIN",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1700,
+		"location_job": "MONEIN",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Ponctualité",
+		"skills2": "Gestion du stress",
+		"skills3": "Créativité, générer des idées",
+		"contract_type1": "Intérim",
+		"contract_type2": "saisonnier",
+		"contract_type3": "militaire",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 50,
+		"max_distance": 65,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 901,
+		"match_percentage": 84,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 97
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "BOUGANDA",
+		"surname": "Abdel Ali",
+		"zip_code": 64300,
+		"city": "ORTHEZ",
+		"last_job": "CONDITIONNEUSE",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUSE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1620,
+		"location_job": "ORTHEZ",
+		"company_size": "ETI",
+		"driver_license": false,
+		"tpe": true,
+		"pme": false,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Confiance (en soi, en les autres et en l'avenir)",
+		"skills2": "",
+		"skills3": "Empathie, comprendre la réalité",
+		"contract_type1": "Intérim",
+		"contract_type2": "mannequinat",
+		"contract_type3": "intermitent (spectacle)",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 75,
+		"max_distance": 65,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 100,
+		"match_percentage": 82,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 27
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 75
+			},
+			{
+				"salary_category": 92
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "BONAVITA",
+		"surname": "Alexia",
+		"zip_code": 64230,
+		"city": "LESCAR",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "F",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 80,
+		"availability2": 50,
+		"salary": 1880,
+		"location_job": "LESCAR",
+		"company_size": "GRAND GROUPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Capacité et application d'une consigne",
+		"skills2": "Capacité et application d'une consigne",
+		"skills3": "Capacité et application d'une consigne",
+		"contract_type1": "Intérim",
+		"contract_type2": "CDD",
+		"contract_type3": "CDI",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 50,
+		"max_distance": 40,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 435,
+		"match_percentage": 82,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 80
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 93
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "GOALABRE",
+		"surname": "Laura",
+		"zip_code": 64300,
+		"city": "ARGAGNON",
+		"last_job": "CONDITIONNEUR",
+		"gender": "F",
+		"looking_for_job": "CONDITIONNEUR",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1700,
+		"location_job": "ARGAGNON",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Organisation du temps, respect de dates buttoires",
+		"skills2": "Ponctualité",
+		"skills3": "Gestion du stress",
+		"contract_type1": "Intérim",
+		"contract_type2": "VIE / VTE",
+		"contract_type3": "alternance, Appentissage",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 100,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 551,
+		"match_percentage": 82,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 97
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "CAYEUX",
+		"surname": "Gerald",
+		"zip_code": 64190,
+		"city": "ARAUJUZON",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1720,
+		"location_job": "ARAUJUZON",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Confiance (en soi, en les autres et en l'avenir)",
+		"skills2": "",
+		"skills3": "Empathie, comprendre la réalité",
+		"contract_type1": "Intérim",
+		"contract_type2": "contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type3": "VDI (vendeur à doicile indépendant)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 20,
+		"ready_move_out": true,
+		"mobility": 50,
+		"id": 918,
+		"match_percentage": 82,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 27
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 98
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 0
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "BOULON DESTOUCHE",
+		"surname": "Bryan",
+		"zip_code": 64410,
+		"city": "ARZACQ-ARRAZIGUET",
+		"last_job": "PEINTRE INDUSTRIEL",
+		"gender": "H",
+		"looking_for_job": "PEINTRE INDUSTRIEL",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2280,
+		"location_job": "ARZACQ-ARRAZIGUET",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Audace, capacité à oser",
+		"skills2": "Motivation",
+		"skills3": "Vision",
+		"contract_type1": "Intérim",
+		"contract_type2": "Sous-traitance (Microentreprise)",
+		"contract_type3": "VIE / VTE",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 75,
+		"max_distance": 20,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 949,
+		"match_percentage": 82,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 15
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 75
+			},
+			{
+				"salary_category": 77
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "MONTES",
+		"surname": "Catherine",
+		"zip_code": 64170,
+		"city": "SERRES STE MARIE",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2500,
+		"location_job": "SERRES STE MARIE",
+		"company_size": "GRAND GROUPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": false,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Gestion du stress",
+		"skills2": "Créativité, générer des idées",
+		"skills3": "Esprit d'entreprendre, proactivité",
+		"contract_type1": "Intérim",
+		"contract_type2": "contrat sénior",
+		"contract_type3": "contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 50,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 428,
+		"match_percentage": 81,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 71
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "MELLAC",
+		"surname": "Nicolas",
+		"zip_code": 64150,
+		"city": "PARDIES",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2580,
+		"location_job": "PARDIES",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Empathie, comprendre la réalité",
+		"skills2": "Communication, faire passer un message",
+		"skills3": "Organisation du temps, respect de dates buttoires",
+		"contract_type1": "Intérim",
+		"contract_type2": "Sous-traitance (Microentreprise)",
+		"contract_type3": "VIE / VTE",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 25,
+		"max_distance": 20,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 683,
+		"match_percentage": 81,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 23
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 25
+			},
+			{
+				"salary_category": 69
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 60
+			}
+		]
+	},
+	{
+		"name": "LACAMBRE",
+		"surname": "Cindy",
+		"zip_code": 64190,
+		"city": "CASTETNAU-CAMBLONG",
+		"last_job": "CONDITIONNEUSE",
+		"gender": "F",
+		"looking_for_job": "CONDITIONNEUSE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2220,
+		"location_job": "CASTETNAU-CAMBLONG",
+		"company_size": "GRAND GROUPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": true,
+		"big_company": false,
+		"skills1": "Sens du collectif, partage",
+		"skills2": "Curiosité, aimer apprendre",
+		"skills3": "Capacité et application d'une consigne",
+		"contract_type1": "Intérim",
+		"contract_type2": "intermitent (spectacle)",
+		"contract_type3": "contrat sénior",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 100,
+		"max_distance": 40,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 331,
+		"match_percentage": 80,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 79
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "GRANDIN",
+		"surname": "Guillaume",
+		"zip_code": 64170,
+		"city": "CASTEIDE-CAMI",
+		"last_job": "MECANICIEN",
+		"gender": "H",
+		"looking_for_job": "MECANICIEN",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2240,
+		"location_job": "CASTEIDE-CAMI",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": false,
+		"pme": true,
+		"eti": false,
+		"big_company": false,
+		"skills1": "Résolution de problème",
+		"skills2": "",
+		"skills3": "",
+		"contract_type1": "Intérim",
+		"contract_type2": "bénévolat",
+		"contract_type3": "extra (restauration, hôtellerie)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 50,
+		"max_distance": 40,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 690,
+		"match_percentage": 80,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 79
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "DAOUDAL",
+		"surname": "Virginie",
+		"zip_code": 64230,
+		"city": "SAUVAGNON",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "F",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2380,
+		"location_job": "SAUVAGNON",
+		"company_size": "ETI",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Ponctualité",
+		"skills2": "Gestion du stress",
+		"skills3": "Créativité, générer des idées",
+		"contract_type1": "Intérim",
+		"contract_type2": "CDI",
+		"contract_type3": "prêt de personnel",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 25,
+		"max_distance": 20,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 176,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 25
+			},
+			{
+				"salary_category": 74
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 60
+			}
+		]
+	},
+	{
+		"name": "RUIZ",
+		"surname": "Jean José",
+		"zip_code": 64140,
+		"city": "BILLERE",
+		"last_job": "MECANICIEN AUTO",
+		"gender": "H",
+		"looking_for_job": "MECANICIEN AUTO",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2060,
+		"location_job": "BILLERE",
+		"company_size": "ETI",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Empathie, comprendre la réalité",
+		"skills2": "Communication, faire passer un message",
+		"skills3": "Organisation du temps, respect de dates buttoires",
+		"contract_type1": "Intérim",
+		"contract_type2": "extra (restauration, hôtellerie)",
+		"contract_type3": "saisonnier",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 50,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 189,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 23
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 85
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 60
+			}
+		]
+	},
+	{
+		"name": "BLANDIN",
+		"surname": "Charles",
+		"zip_code": 64000,
+		"city": "PAU",
+		"last_job": "CONDITIONNEUSE",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUSE",
+		"availability1": 80,
+		"availability2": 50,
+		"salary": 1920,
+		"location_job": "PAU",
+		"company_size": "GRAND GROUPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": false,
+		"big_company": false,
+		"skills1": "Motivation",
+		"skills2": "Vision",
+		"skills3": "Visualisation, Zoom sur la mise en pratique des méthodes concrètes",
+		"contract_type1": "Intérim",
+		"contract_type2": "militaire",
+		"contract_type3": "titulaire de la fonction publique",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 25,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 313,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 13
+			},
+			{
+				"worktime_category": 80
+			},
+			{
+				"teleworking_category": 25
+			},
+			{
+				"salary_category": 91
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "CASTAGNOLI",
+		"surname": "Nohan",
+		"zip_code": 64360,
+		"city": "MONEIN",
+		"last_job": "ELECTRICIEN EQUIP INDUS",
+		"gender": "H",
+		"looking_for_job": "ELECTRICIEN EQUIP INDUS",
+		"availability1": 50,
+		"availability2": 50,
+		"salary": 1620,
+		"location_job": "MONEIN",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": true,
+		"pme": true,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Sens du collectif, partage",
+		"skills2": "Curiosité, aimer apprendre",
+		"skills3": "Capacité et application d'une consigne",
+		"contract_type1": "Intérim",
+		"contract_type2": "titulaire de la fonction publique",
+		"contract_type3": "CDIC (bâtiment)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 100,
+		"max_distance": 40,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 610,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 50
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 92
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "FILIPE",
+		"surname": "Théo",
+		"zip_code": 64000,
+		"city": "PAU",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 50,
+		"availability2": 50,
+		"salary": 2400,
+		"location_job": "PAU",
+		"company_size": "PME",
+		"driver_license": false,
+		"tpe": false,
+		"pme": true,
+		"eti": false,
+		"big_company": false,
+		"skills1": "Motivation",
+		"skills2": "Vision",
+		"skills3": "Visualisation, Zoom sur la mise en pratique des méthodes concrètes",
+		"contract_type1": "Intérim",
+		"contract_type2": "militaire",
+		"contract_type3": "titulaire de la fonction publique",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 25,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 100,
+		"id": 662,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 13
+			},
+			{
+				"worktime_category": 50
+			},
+			{
+				"teleworking_category": 25
+			},
+			{
+				"salary_category": 74
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "ROUVAYROLLE",
+		"surname": "Julian",
+		"zip_code": 64140,
+		"city": "LONS",
+		"last_job": "CONDITIONNEUR",
+		"gender": "H",
+		"looking_for_job": "CONDITIONNEUR",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2180,
+		"location_job": "LONS",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": false,
+		"eti": true,
+		"big_company": true,
+		"skills1": "Communication, faire passer un message",
+		"skills2": "Organisation du temps, respect de dates buttoires",
+		"skills3": "Ponctualité",
+		"contract_type1": "Intérim",
+		"contract_type2": "Temps partagé",
+		"contract_type3": "CDD",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 75,
+		"max_distance": 65,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 809,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 75
+			},
+			{
+				"salary_category": 81
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"name": "MASSAT",
+		"surname": "Charlotte",
+		"zip_code": 64150,
+		"city": "ABIDOS",
+		"last_job": "MANUTENTIONNAIRE",
+		"gender": "H",
+		"looking_for_job": "MANUTENTIONNAIRE",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 1780,
+		"location_job": "ABIDOS",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": false,
+		"pme": true,
+		"eti": false,
+		"big_company": false,
+		"skills1": "Créativité, générer des idées",
+		"skills2": "Esprit d'entreprendre, proactivité",
+		"skills3": "Audace, capacité à oser",
+		"contract_type1": "Intérim",
+		"contract_type2": "VDI (vendeur à doicile indépendant)",
+		"contract_type3": "Indépendant / franchisé (EURL, SARL, SASU)",
+		"contract_type_differences": false,
+		"if_not_more_info": false,
+		"teleworking": 100,
+		"max_distance": 20,
+		"ready_move_out": false,
+		"mobility": 75,
+		"id": 920,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 98
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 0
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"name": "FREZIER",
+		"surname": "Maryline",
+		"zip_code": 64410,
+		"city": "POULIACQ",
+		"last_job": "MENUISIER ALU",
+		"gender": "F",
+		"looking_for_job": "MENUISIER ALU",
+		"availability1": 100,
+		"availability2": 100,
+		"salary": 2100,
+		"location_job": "POULIACQ",
+		"company_size": "TPE",
+		"driver_license": false,
+		"tpe": true,
+		"pme": false,
+		"eti": false,
+		"big_company": true,
+		"skills1": "Empathie, comprendre la réalité",
+		"skills2": "Communication, faire passer un message",
+		"skills3": "Organisation du temps, respect de dates buttoires",
+		"contract_type1": "Intérim",
+		"contract_type2": "VDI (vendeur à doicile indépendant)",
+		"contract_type3": "Indépendant / franchisé (EURL, SARL, SASU)",
+		"contract_type_differences": true,
+		"if_not_more_info": true,
+		"teleworking": 50,
+		"max_distance": 60,
+		"ready_move_out": true,
+		"mobility": 100,
+		"id": 930,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 23
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 84
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 60
+			}
+		]
+	}
+]

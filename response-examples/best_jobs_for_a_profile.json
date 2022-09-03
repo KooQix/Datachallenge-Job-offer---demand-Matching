@@ -1,0 +1,320 @@
+[
+	{
+		"multi": false,
+		"contract_type": "VDI (vendeur à domicile indépendant)",
+		"contract_type_differences": "Tout les autres",
+		"if_not_more_info": "Blog",
+		"worktime": 100,
+		"salary": 2100,
+		"location": "PARDIES",
+		"driver_license": true,
+		"company_size": 1,
+		"other_license": false,
+		"skills1": "Organisation du temps, respect de dates buttoires",
+		"skills2": "Résolution de problème",
+		"skills3": "Capacité et application d'une consigne",
+		"teleworking": 50,
+		"travel": 25,
+		"required_resume": false,
+		"name": "GHESQUIER",
+		"surname": "Sylvain",
+		"company_name": "OCCITANE DE CONSTRUCTION",
+		"hq_location": "FRONTON",
+		"siret": "430466581.00013",
+		"naf": "4120B",
+		"job_name": "AGENT DE NETTOYAGE",
+		"id": 374,
+		"match_percentage": 86,
+		"match_info": [
+			{
+				"job_qualities_category": 100
+			},
+			{
+				"skills_category": 55
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 50
+			},
+			{
+				"salary_category": 90
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 46
+			}
+		]
+	},
+	{
+		"multi": true,
+		"contract_type": "saisonnier",
+		"contract_type_differences": "Tout les autres",
+		"if_not_more_info": "Blog",
+		"worktime": 100,
+		"salary": 2100,
+		"location": "PAU",
+		"driver_license": true,
+		"company_size": 2,
+		"other_license": true,
+		"skills1": "Créativité, générer des idées",
+		"skills2": "Sens du collectif, partage",
+		"skills3": "Curiosité, aimer apprendre",
+		"teleworking": 25,
+		"travel": 50,
+		"required_resume": true,
+		"name": "CAMBEILH",
+		"surname": "ALEXANDRE",
+		"company_name": "FIPSO",
+		"hq_location": "LAHONTAN",
+		"siret": "338172885.00067",
+		"naf": "4331Z",
+		"job_name": "EDUCATEUR SPORTIF",
+		"id": 396,
+		"match_percentage": 81,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 90
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 73
+			}
+		]
+	},
+	{
+		"multi": true,
+		"contract_type": "Contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type_differences": "Uniquement : CDI, CDD, Intérim, stage, alternance",
+		"if_not_more_info": "Vidéo",
+		"worktime": 33,
+		"salary": 1700,
+		"location": "POEY DE LESCAR",
+		"driver_license": true,
+		"company_size": 3,
+		"other_license": true,
+		"skills1": "Organisation du temps, respect de dates buttoires",
+		"skills2": "Gestion du stress",
+		"skills3": "Intelligence émotionnelle",
+		"teleworking": 25,
+		"travel": 25,
+		"required_resume": true,
+		"name": "CAPDEVIELLE",
+		"surname": "Jeffrey",
+		"company_name": "DARRIGUES SARL",
+		"hq_location": "TARNOS",
+		"siret": "339648875.00013",
+		"naf": "3250A",
+		"job_name": "VENDEUSE",
+		"id": 420,
+		"match_percentage": 81,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 55
+			},
+			{
+				"worktime_category": 33
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 74
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"multi": true,
+		"contract_type": "CDIC (bâtiment)",
+		"contract_type_differences": "Tout les autres",
+		"if_not_more_info": "Vidéo",
+		"worktime": 100,
+		"salary": 2050,
+		"location": "MONEIN",
+		"driver_license": true,
+		"company_size": 3,
+		"other_license": true,
+		"skills1": "Sens du collectif, partage",
+		"skills2": "Vision, voir le chemin pour arriver à l'objectif (dézoom)",
+		"skills3": "Motivation, donner du sens au delà de la tâche à effectuer",
+		"teleworking": 75,
+		"travel": 25,
+		"required_resume": true,
+		"name": "GONZALEZ AGUIRRE",
+		"surname": "CHARLES",
+		"company_name": "CEGELEC SUD-OUEST",
+		"hq_location": "PAU CEDEX 09",
+		"siret": "438053399.00145",
+		"naf": "8130Z",
+		"job_name": "FACTEUR",
+		"id": 214,
+		"match_percentage": 80,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 0
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 33
+			},
+			{
+				"salary_category": 88
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	},
+	{
+		"multi": true,
+		"contract_type": "Portage salarial",
+		"contract_type_differences": "Uniquement : CDI, CDD, Intérim, stage, alternance",
+		"if_not_more_info": "Vidéo",
+		"worktime": 100,
+		"salary": 1900,
+		"location": "PARDIES",
+		"driver_license": true,
+		"company_size": 4,
+		"other_license": true,
+		"skills1": "Communication, faire passer un message",
+		"skills2": "Sens du collectif, partage",
+		"skills3": "Motivation, donner du sens au delà de la tâche à effectuer",
+		"teleworking": 0,
+		"travel": 25,
+		"required_resume": true,
+		"name": "GRANGE",
+		"surname": "NORMA",
+		"company_name": "SARL GUILLAUME VIGNAU GEOMETRE",
+		"hq_location": "ARTIX",
+		"siret": "439957457.00013",
+		"naf": "3700Z",
+		"job_name": "VENDEUR SE",
+		"id": 375,
+		"match_percentage": 79,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 28
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 0
+			},
+			{
+				"salary_category": 82
+			},
+			{
+				"driver_license_category": 100
+			},
+			{
+				"mobility_category": 100
+			},
+			{
+				"company_size_category": 80
+			}
+		]
+	},
+	{
+		"multi": false,
+		"contract_type": "Contrat aidé ou aménagé (travailleur handicapé)",
+		"contract_type_differences": "Uniquement : CDI, CDD, Intérim, stage, alternance",
+		"if_not_more_info": "Blog",
+		"worktime": 100,
+		"salary": 1850,
+		"location": "OLORON-SAINTE-MARIE",
+		"driver_license": false,
+		"company_size": 3,
+		"other_license": false,
+		"skills1": "Gestion du stress",
+		"skills2": "Organisation du temps, respect de dates buttoires",
+		"skills3": "Esprit d'entreprendre, proactivité",
+		"teleworking": 25,
+		"travel": 75,
+		"required_resume": false,
+		"name": "MAULINE",
+		"surname": "ANNE",
+		"company_name": "CMTI",
+		"hq_location": "ARTIGUELOUVE",
+		"siret": "530707082.00018",
+		"naf": "8130Z",
+		"job_name": "AGENT DE PRODUCTION",
+		"id": 303,
+		"match_percentage": 63,
+		"match_info": [
+			{
+				"job_qualities_category": 83
+			},
+			{
+				"skills_category": 52
+			},
+			{
+				"worktime_category": 100
+			},
+			{
+				"teleworking_category": 100
+			},
+			{
+				"salary_category": 80
+			},
+			{
+				"driver_license_category": 0
+			},
+			{
+				"mobility_category": 0
+			},
+			{
+				"company_size_category": 100
+			}
+		]
+	}
+]

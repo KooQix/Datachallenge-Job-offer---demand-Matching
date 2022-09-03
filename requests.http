@@ -1,0 +1,153 @@
+
+	#################### Clients ####################
+
+### Get all clients
+GET http://localhost:8000/api/client
+
+
+### Get 1 client by id
+GET http://localhost:8000/api/client/3
+
+
+### Get best matchs for given offer
+# Client 3 : MANUTENTIONNAIRE
+GET http://localhost:8000/api/client/best_match/3
+
+
+### Create new client
+# company_size: TPE = 1, PME = 2, ETI = 3, BIG_COMPANY = 4
+POST http://localhost:8000/api/client
+Content-Type: application/json
+
+{
+  "job_name": "MANUTENTIONNAIRE",
+  "multi": true,
+  "contract_type": "Contrat aidé ou aménagé (travailleur handicapé)",
+  "contract_type_differences": "Tout les autres",
+  "if_not_more_info": "Blog",
+  "worktime": 100,
+  "salary": 2050,
+  "location": "ABIDOS",
+  "driver_license": true,
+  "company_size": 1, 
+  "other_license": true,
+  "skills1": "Créativité, générer des idées",
+  "skills2": "Créativité, générer des idées",
+  "skills3": "Confiance (en soi, en les autres et en l'avenir)",
+  "teleworking": 100,
+  "travel": 0,
+  "required_resume": true,
+  "name": "NAME",
+  "surname": "SURNAME",
+  "company_name": "CJS",
+  "hq_location": "ARTHEZ DE BEARN",
+  "siret": "509226783.00017",
+  "naf": "8130Z"
+}
+
+
+### Update Client
+PATCH http://localhost:8000/api/client/1
+Content-Type: application/json
+
+{
+	"name": "LUCAZEAU_Updated"
+}
+
+
+### Delete Client
+DELETE http://localhost:8000/api/client/1
+
+
+
+
+	#################### Jobers ####################
+
+### Get all jobers
+GET http://localhost:8000/api/jober
+
+
+### Get 1 jober by id
+GET http://localhost:8000/api/jober/1
+
+
+### Get best matchs for given jober
+# Jober 2: AGENT DE NETTOYAGE
+GET http://localhost:8000/api/jober/best_match/2
+
+
+### Create Jober
+POST http://localhost:8000/api/jober/
+Content-Type: application/json
+
+{
+  "name": "NAME",
+  "surname": "SURNAME",
+  "zip_code": 64230,
+  "city": "SAUVAGNON",
+  "last_job": "AGENT ADMINISTRATIF",
+  "gender": "H",
+  "looking_for_job": "AGENT ADMINISTRATIF",
+  "availability1": 100,
+  "availability2": 100,
+  "salary": 2280,
+  "location_job": "SAUVAGNON",
+  "company_size": "ETI",
+  "driver_license": true,
+  "tpe": false,
+  "pme": true,
+  "eti": false,
+  "big_company": false,
+  "skills1": "Communication, faire passer un message",
+  "skills2": "Organisation du temps, respect de dates buttoires",
+  "skills3": "Ponctualité",
+  "contract_type1": "Intérim",
+  "contract_type2": "militaire",
+  "contract_type3": "titulaire de la fonction publique",
+  "contract_type_differences": true,
+  "if_not_more_info": true,
+  "teleworking": 100,
+  "max_distance": 40,
+  "ready_move_out": true,
+  "mobility": 25
+}
+
+
+### Update jober
+PATCH http://localhost:8000/api/jober/1
+Content-Type: application/json
+
+{
+  "name": "HERZOG_Updated"
+}
+
+
+
+### Delete Jober
+DELETE http://localhost:8000/api/jober/1
+
+
+
+
+	#################### Jobs ####################
+
+### Get all jobs
+GET http://localhost:8000/api/job
+
+
+### Get 1 job by id
+GET http://localhost:8000/api/job/1
+
+
+### Create job
+POST http://localhost:8000/api/job/
+Content-Type: application/json
+
+{
+  "job_name": "Avocat"
+}
+
+
+### Delete job
+DELETE http://localhost:8000/api/job/154
+
