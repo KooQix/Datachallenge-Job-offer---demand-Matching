@@ -16,6 +16,8 @@ It works the same for a given profile, looking to get the best offers.
 > API in Python, using FastAPI.\
 > Check out the requests.http file to get an idea of the available HTTP endpoints and the json files in response-examples to get an idea of the responses.
 
+**Our team won this DataChallenge!** See LinkedIn post: https://www.linkedin.com/posts/ia-pau_les-r%C3%A9sultats-sont-tomb%C3%A9s-ca-y-est-activity-6917026474390671360-GkE0?utm_source=share&utm_medium=member_desktop
+
 ### Requirements
 
 -   Conda needs to be installed:
