@@ -1,8 +1,8 @@
 # Description
 
-_During a DataChallenge proposed by my Engineering School (French), when I was in second year, we had to match a job offer with the best profiles._
+_Hackathon proposed by my Engineering School (French), in partnership with a company nearby, when I was in second year. The goal was to match a job offer with the best profiles. Low energy consumption was one of the requirements, therefore we could not use use a deep neural network._
 
-To do so, I used web scraping to get the qualities required by a job and then regrouped the jobs in the database using a clustering method (KMeans).
+I used web scraping to get the qualities required by a job and then regrouped the jobs in the database using a clustering method (KMeans).
 
 Categories were created, for example distance to the job, given the information about the job offer and a profile. Each category has a percentage of match, using its own distance measurement.
 Each category also has a weight, adjustable in the configuration file.
